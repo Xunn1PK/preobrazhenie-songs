@@ -2,7 +2,7 @@
   "folders": [
     {
       "id": "folder-mv6ic363-9ok7b",
-      "name": "Sunday",
+      "name": "Воскресенье",
       "lists": [
         "list-mv6iccga-po1x0"
       ],
@@ -45,7 +45,7 @@
       "metadata": {
         "key": "A",
         "artist": "Элиза Белосевич-Дириенко",
-        "tempo": "78",
+        "tempo": "80",
         "timeSignature": "4/4"
       }
     },
@@ -73,8 +73,8 @@
   "settings": {
     "locale": "ru",
     "paperOptions": {
-      "fontSize": 70
+      "fontSize": 100
     }
   },
-  "exportedAt": "2026-10-17T21:33:22.750Z"
+  "exportedAt": "2026-10-17T21:35:09.222Z"
 }
