@@ -26,7 +26,7 @@
         }
       ],
       "createdAt": 1791885468682,
-      "lastUsedAt": 1791885907789
+      "lastUsedAt": 1792143914616
     }
   ],
   "songs": [
@@ -71,9 +71,10 @@
     }
   ],
   "settings": {
+    "locale": "ru",
     "paperOptions": {
       "fontSize": 70
     }
   },
-  "exportedAt": "2026-10-13T10:05:13.752Z"
+  "exportedAt": "2026-10-17T21:33:22.750Z"
 }
