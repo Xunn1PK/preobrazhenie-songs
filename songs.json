@@ -10,13 +10,13 @@
       "playbackUrl": "",
       "spotify": "",
       "createdAt": 1792274891560,
-      "lastTransposed": "Db",
+      "lastTransposed": "D",
       "drawings": [],
       "images": [],
       "accessDays": 0,
       "metadata": {
         "artist": "Skydoor Worship",
-        "key": "Db",
+        "key": "D",
         "composer": "Maverick City Music & UPPERROOM",
         "timeSignature": "4/4",
         "year": "2021",
@@ -25,10 +25,11 @@
     }
   ],
   "settings": {
+    "locale": "en",
     "theme": "monochrome",
     "paperOptions": {
       "background": "#f8f5ee"
     }
   },
-  "exportedAt": "2026-10-19T11:41:53.785Z"
+  "exportedAt": "2026-10-19T11:43:10.726Z"
 }
