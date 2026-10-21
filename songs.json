@@ -1,20 +1,25 @@
 {
   "folders": [
     {
-      "id": "folder-mvidictm-nxwvq",
+      "id": "folder-mvidkj1p-m7w7j",
       "name": ".",
       "lists": [
-        "list-mvidijx2-6qge7"
+        "list-mvidkkoj-9bjc9"
       ],
-      "createdAt": 1792602945130,
+      "createdAt": 1792603046509,
       "type": "default"
     }
   ],
   "lists": [
     {
-      "id": "list-mvidijx2-6qge7",
-      "name": "1",
+      "id": "list-mvidkkoj-9bjc9",
+      "name": ".",
       "songs": [
+        {
+          "id": "song-mvcy712g-7a7hb",
+          "lastKnownName": "Спасибо, Бог!",
+          "transposed": "D"
+        },
         {
           "id": "song-mvfigmi8-350tj",
           "lastKnownName": "Принесите Богу"
@@ -26,12 +31,11 @@
         },
         {
           "id": "song-mvfi64tt-cagan",
-          "lastKnownName": "Благословен доверяющий Богу",
-          "transposed": "D"
+          "lastKnownName": "Благословен доверяющий Богу"
         }
       ],
-      "createdAt": 1792602954326,
-      "lastUsedAt": 1792602999448
+      "createdAt": 1792603048627,
+      "lastUsedAt": 1792603059966
     }
   ],
   "songs": [
@@ -67,7 +71,6 @@
       "playbackUrl": "",
       "spotify": "",
       "createdAt": 1792429374449,
-      "lastTransposed": "D",
       "drawings": [],
       "images": [],
       "accessDays": 0,
@@ -157,5 +160,5 @@
       "pageAnimation": "slow"
     }
   },
-  "exportedAt": "2026-10-21T17:16:48.073Z"
+  "exportedAt": "2026-10-21T17:17:53.795Z"
 }
