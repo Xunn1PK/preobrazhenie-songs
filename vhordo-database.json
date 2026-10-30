@@ -14,11 +14,11 @@
       "images": [],
       "accessDays": 0,
       "metadata": {
-        "artist": "Andre Crouch",
+        "artist": "Andre Crouch (Андре Кроуч)",
         "key": "Bb",
         "tempo": "130",
         "timeSignature": "4/4",
-        "composer": "Andre Crouch",
+        "composer": "Andre Crouch (Андре Кроуч)",
         "copyright": "Word Entertainment LLC / Curb Records",
         "year": "1997",
         "album": "Pray",
@@ -83,13 +83,13 @@
       "accessDays": 0,
       "metadata": {
         "playback": "https://www.youtube.com/watch?v=8YJ60KblvBE",
-        "artist": "Matt Redman",
+        "artist": "Matt Redman (Мэтт Рэдман)",
         "key": "A",
         "tempo": "115",
         "timeSignature": "4/4",
         "album": "Where Angels Fear to Tread",
         "year": "2002",
-        "composer": "Matt Redman",
+        "composer": "Matt Redman (Мэтт Рэдман)",
         "copyright": "Thankyou Music / Integrity Music"
       }
     },
@@ -105,13 +105,13 @@
       "images": [],
       "accessDays": 0,
       "metadata": {
-        "artist": "Linda Duvall",
+        "artist": "Linda Duvall (Линда Дувалл)",
         "key": "C",
         "tempo": "80",
         "timeSignature": "4/4",
         "year": "2007",
         "copyright": "II Guys From Petra",
-        "composer": "Linda Duvall",
+        "composer": "Linda Duvall (Линда Дувалл)",
         "playback": "https://www.youtube.com/watch?v=0kIoxK9g7vM"
       }
     },
@@ -150,7 +150,7 @@
       "images": [],
       "accessDays": 0,
       "metadata": {
-        "artist": "",
+        "artist": "Неизвестен",
         "key": "D",
         "tempo": "126",
         "timeSignature": "4/4",
@@ -170,13 +170,13 @@
       "accessDays": 0,
       "metadata": {
         "playback": "https://www.youtube.com/watch?v=R9Kex7jZlsA",
-        "artist": "Lynn DeShazo",
+        "artist": "Lynn DeShazo (Линн ДеШазо)",
         "key": "Bb",
         "tempo": "82",
         "timeSignature": "4/4",
         "album": "More Precious Tha Silver (Songs Of Celebration And Worship)",
         "year": "1982",
-        "composer": "Lynn DeShazo",
+        "composer": "Lynn DeShazo (Линн ДеШазо)",
         "copyright": "Integrity's Hosanna! Music / Ready Writer Music"
       }
     },
@@ -195,13 +195,36 @@
       "metadata": {
         "timeSignature": "4/4",
         "year": "2021",
-        "artist": "Maverick City Music & UPPERROOM, Skydoor Worship",
+        "artist": "Skydoor Worship, feat. Анна Безгаловая Алексей Бабич (Maverick City Music & UPPERROOM)",
         "composer": "Aaron Moses, Chuck Butler, Dante Bowe, Enrique Holmes, Jesse Cline, Maryanne J. Geogre",
         "key": "Db",
         "copyright": "Bethel Worship Publishing; Heritage Worship Music Publishing; Maverick City Publishing; Aaron Moses Chiriboga Music; Be Essential Songs; Holmeboy Music Group; Jesse Cline Publishing Designee; Jord A Lil Music; MJ George Music.",
         "album": "",
         "playback": "https://www.youtube.com/watch?v=5ClCJJDdnPI",
         "tempo": "130"
+      }
+    },
+    {
+      "id": "song-mvvbcqrb-ob10i",
+      "name": "Поклонюсь Тебе Иисус",
+      "content": "{c: Куплет 1}\nП[Bm]оклонюсь Теб[G]е, Иисус\n[D]Я всем душ[A]ой и телом\nВ[Bm]оспою Теб[G]е, Иисус\n[D]Я духом с[A]ердца своег[Bm]о\nВеликий[G], Вс[D]емогущий[A]\nБ[Bm]ог Великий[G], Вс[D]емогущий[A]\n\n{c: Куплет 2}\nТ[Bm]ы прости мен[G]я, Господь\n[D]За все мо[A]и сомненья\nВ[Bm]ознеси мен[G]я, Господь\n[D]К вершинам Д[A]уха Твоего[Bm]\nВеликий (Б[G]ог Великий)\nВс[D]емогущий (Вс[A]емогущий)\nБ[Bm]ог Великий (Б[G]ог Великий)\n[D]Люблю Теб[A]я\n\n{c: Припев}\nВ своём с[Bm]ердце\n[G]Храню зав[D]ет Твоей кров[A]и\nВ новом с[Bm]ердце\n[G]Горит ог[D]онь Твоей любв[A]и",
+      "url": "",
+      "playbackUrl": "https://www.youtube.com/watch?v=8ml8-Jbear0",
+      "spotify": "https://www.youtube.com/watch?v=8ml8-Jbear0",
+      "createdAt": 1793385384311,
+      "drawings": [],
+      "images": [],
+      "accessDays": 0,
+      "metadata": {
+        "artist": "Краеугольный Камень",
+        "key": "D",
+        "composer": "Сергей Мачин",
+        "copyright": "Краеугольный Камень",
+        "album": "Свежий ветер",
+        "year": "2000",
+        "timeSignature": "4/4",
+        "tempo": "80",
+        "playback": "https://www.youtube.com/watch?v=8ml8-Jbear0"
       }
     }
   ]
