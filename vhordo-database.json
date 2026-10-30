@@ -179,6 +179,30 @@
         "composer": "Lynn DeShazo",
         "copyright": "Integrity's Hosanna! Music / Ready Writer Music"
       }
+    },
+    {
+      "id": "song-mvv66b9o-cnlpz",
+      "name": "Спасибо Бог",
+      "content": "{c: Интро}\n[Db Dbsus4 Db Dbsus4]\n[Db Dbsus4 Db Dbsus4 Db]\n\n{c: Куплет 1}\nД[Db]олго блуждал в ночи\nПыт[Db]аясь покой найти\nИзмученн[Gb]ым\nИ жалким был[Db]\nСраж[Db]ался изо всех сил\nНо т[Db]ак и не победил\nС тех пор по ж[Gb]изни\nБездумно плыл[Db]\n\n{c: Пред-припев 1}\nОдн[Ab]ажды встретил [Bbm]я Того\nКто б[Gb]ыл в конце пути м[Db]оего\nСказ[Ab]ал Он мне, что [Db/F]я не один[Gb]ок\n\n{c: Припев}\nТы вз[Db]ял меня, из тьм[Ebm]ы поднял\nНог[Db/F]ам моим основ[Gb]ание дал\nЯ благод[Bbm]арен Тебе\nМой Сп[Gb]аситель\nТы сердце [Db]исцелил\nМне [Ebm]имя дал\nОсв[Db/F]ободил Ты н[Gb]авсегда\nЯ благод[Bbm]арен Тебе, Искуп[Gb]итель\nСпасибо, Б[Db]ог[Dbsus4 Db Dbsus4 Db]\n\n{c: Куплет 2}\nТеп[Db]ерь верю только в Тебя\nВедь в[Db]идел всё это я\nЛетят сомн[Gb]енья\nКак пепел на ветру[Db]\nГр[Db]ехов моих тяжкий груз\nУн[Db]ыние, страх и грусть\nВам больше здесь не рады[Gb]\nБегите от мен[Db]я\n\n{c: Пред-припев 2}\nПока я ж[Ab]ив, буду п[Bbm]еть о том\nКак д[Gb]ушу спас мо[Db]ю Господь\nО т[Ab]ом как блудный с[Db/F]ын\nПришёл дом[Gb]ой\n\n{c: Бридж 1}\n[Db]Ад потерял меня, я спасён\nЯ спасён, я спасён\n\n{c: Бридж 2}\n[Ab]Ад потерял меня, [Bbm]я спасён\n[Gb]Я спасён, [Db]я спасён\n\n{c: Бридж 3}\nВ[Db]ыйди, выйди, выйди, \nИз могилы своей\n\n{c: Бридж 4}\nИ [Db]если спас Он меня\nТо спасёт и тебя",
+      "url": "",
+      "playbackUrl": "https://www.youtube.com/watch?v=5ClCJJDdnPI",
+      "spotify": "https://www.youtube.com/watch?v=5ClCJJDdnPI",
+      "createdAt": 1793376686220,
+      "lastTransposed": "Db",
+      "drawings": [],
+      "images": [],
+      "accessDays": 0,
+      "metadata": {
+        "timeSignature": "4/4",
+        "year": "2021",
+        "artist": "Maverick City Music & UPPERROOM, Skydoor Worship",
+        "composer": "Aaron Moses, Chuck Butler, Dante Bowe, Enrique Holmes, Jesse Cline, Maryanne J. Geogre",
+        "key": "Db",
+        "copyright": "Bethel Worship Publishing; Heritage Worship Music Publishing; Maverick City Publishing; Aaron Moses Chiriboga Music; Be Essential Songs; Holmeboy Music Group; Jesse Cline Publishing Designee; Jord A Lil Music; MJ George Music.",
+        "album": "",
+        "playback": "https://www.youtube.com/watch?v=5ClCJJDdnPI",
+        "tempo": "130"
+      }
     }
   ]
 }
