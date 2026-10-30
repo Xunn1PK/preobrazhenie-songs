@@ -14,12 +14,12 @@
       "images": [],
       "accessDays": 0,
       "metadata": {
-        "artist": "Андре Кроуч",
+        "artist": "Andre Crouch",
         "key": "Bb",
         "tempo": "130",
         "timeSignature": "4/4",
-        "composer": "Андре Кроуч",
-        "copyright": "1997 Word Entertainment LLC / Curb Records",
+        "composer": "Andre Crouch",
+        "copyright": "Word Entertainment LLC / Curb Records",
         "year": "1997",
         "album": "Pray",
         "playback": "https://www.youtube.com/watch?v=63UhpmbSaM4"
@@ -62,7 +62,7 @@
         "artist": "Elevation Worship",
         "composer": "Steven Furtick, Chris Brown, Kari Jobe, Cody Cames",
         "year": "2020",
-        "copyright": "2020 Capitol CMG Paragon / Worship Together Music / Writer's Roof Publishing / Music by Elevation Worship Publishing / Kari Jobe Carnes Music",
+        "copyright": "Capitol CMG Paragon / Worship Together Music / Writer's Roof Publishing / Music by Elevation Worship Publishing / Kari Jobe Carnes Music",
         "album": "Graves into Gardens",
         "playback": "https://www.youtube.com/watch?v=Zp6aygmvzM4",
         "key": "C",
@@ -83,14 +83,101 @@
       "accessDays": 0,
       "metadata": {
         "playback": "https://www.youtube.com/watch?v=8YJ60KblvBE",
-        "artist": "Мэтт Рэдман",
+        "artist": "Matt Redman",
         "key": "A",
         "tempo": "115",
         "timeSignature": "4/4",
         "album": "Where Angels Fear to Tread",
         "year": "2002",
-        "composer": "Мэтт Рэдман",
-        "copyright": "2002 Thankyou Music / Integrity Music"
+        "composer": "Matt Redman",
+        "copyright": "Thankyou Music / Integrity Music"
+      }
+    },
+    {
+      "id": "song-mvuxsvgt-z7due",
+      "name": "Бог всего творенья",
+      "content": "{c: Куплет 1}\n[D]Б[Em]ог всего твор[C]енья\n[D]Вод[Em]ы, земли, н[C]ебес\n[D]Целый м[Em]ир - Твоё влад[C]енье\n[D]Будь просл[Em]авлен, Бог чуд[C]ес\n\n{c: Припев}\nТы в зв[G]ёзды обратил ночную мгл[D]у\nТы - Бог ч[Am]удный, св[C]ятый\nВсел[G]енная поёт Тебе хвал[D]у\nТы - Бог ч[Am]удный, св[C]ятый\n\n{c: Запев}\nБ[C]ог земли и небес! Б[C]ог земли и небес\n\n{c: Куплет 2}\n[D]С[Em]амым ранним [C]утром\n[D]Встречу с р[Em]адостью Тв[C]ой свет\n[D]Если к[Em]ану в мраке ж[C]утком\n[D]Ты прид[Em]ёшь - и ночи н[C]ет\n\n{c: Бридж}\n[Am]Аллилуйя! Ты Б[C]ог земли и неб[Am]ес\nАллил[Am]уйя! Ты Б[C]ог земли и неб[Am]ес\nАллил[Am]уйя! Ты Б[C]ог земли и неб[D]ес",
+      "url": "",
+      "playbackUrl": "https://www.youtube.com/watch?v=0kIoxK9g7vM",
+      "spotify": "https://www.youtube.com/watch?v=0kIoxK9g7vM",
+      "createdAt": 1793362622285,
+      "drawings": [],
+      "images": [],
+      "accessDays": 0,
+      "metadata": {
+        "artist": "Linda Duvall",
+        "key": "C",
+        "tempo": "80",
+        "timeSignature": "4/4",
+        "year": "2007",
+        "copyright": "II Guys From Petra",
+        "composer": "Linda Duvall",
+        "playback": "https://www.youtube.com/watch?v=0kIoxK9g7vM"
+      }
+    },
+    {
+      "id": "song-mvuyw3y5-jtf1f",
+      "name": "Вечно буду славить",
+      "content": "{c: Куплет}\nБ[Dm]ог излил любовь на всех нас\nОн д[C]аровал прощение\nВ [Dm]Его имени спасенье\nР[C]адость, исцеление\nТы - Б[Dm]ог Создатель, Мира Князь\nП[C]ервый и Последний\nЯ б[Bb]уду петь, буду кричать\nО м[C]илости Твоей\n\n{c: Припев}\nВечно буду сл[Dm]авить лишь Теб[Bb]я\nТы откр[C]ыл нам двери в н[Gm]ебеса\nВоспою Теб[Dm]я, ведь Ты свят[Bb]ой\nАллилуй[C]я[Gm]\n\n{c: Проигрыш}\n[Dm Bb C Gm (конец D)]\n\n{c: Бридж}\nАллил[Gm]уйя, аллил[Bb]уйя\nАллил[Dm]уйя, Ты свят[C]ой",
+      "url": "",
+      "playbackUrl": "https://www.youtube.com/watch?v=IU_iCB1TnVo",
+      "spotify": "https://www.youtube.com/watch?v=IU_iCB1TnVo",
+      "createdAt": 1793364452861,
+      "drawings": [],
+      "images": [],
+      "accessDays": 0,
+      "metadata": {
+        "artist": "Виталий Ефремочкин",
+        "composer": "Виталий Ефремочкин",
+        "key": "C",
+        "tempo": "150",
+        "timeSignature": "4/4",
+        "album": "Воссия Господь",
+        "year": "2010",
+        "copyright": "Vitaliy Yefremochking",
+        "playback": "https://www.youtube.com/watch?v=IU_iCB1TnVo"
+      }
+    },
+    {
+      "id": "song-mvuza85r-9lv0i",
+      "name": "Бог наш благ",
+      "content": "{c: Припев}\nБог наш бл[D]аг всегд[Dm]а\nОн влож[G]ил хвалу в наш[A]и сердца\nБог наш бл[D]аг всегд[Bm]а\nЕго св[G]ет сияет, прогон[A]яя мрак\nБог наш бл[G]аг\nБог наш бл[A]аг всегд[D]а[(G D)]\n\n{c: Куплет 1}\nЕсли т[D]ы в долине т[Bm]ени\nОкруж[G]ен со всех стор[A]он\nТы не б[D]ойся, Он напр[Bm]авит\nСохран[G]ит и провед[A]ёт\nОбещ[G]ал Он, что не ост[A]авит\nНе пок[G]инет никогд[A]а\n\n{c: Куплет 2}\nЯ был гр[D]ешник недост[Bm]ойный\nНо Он [G]умер за мен[A]я\nДух Свят[D]ой меня нап[Bm]олнил\nИ свид[G]етельствую [A]я\nЧто Ег[G]о любовь нав[A]ечно\nЕго м[G]илости нам н[A]ет конца\n\n{c: Бридж}\nБоже, тр[Bm]удно мне пон[F#m]ять\nГосподь, пл[G]ан Твой для мен[D]я\nМоя ж[Bm]изнь в Твоих рук[F#m]ах\nИ глаз[G]ами веры вижу [A]ясно я[(G D)]",
+      "url": "",
+      "playbackUrl": "",
+      "spotify": "",
+      "createdAt": 1793365111503,
+      "drawings": [],
+      "images": [],
+      "accessDays": 0,
+      "metadata": {
+        "artist": "",
+        "key": "D",
+        "tempo": "126",
+        "timeSignature": "4/4",
+        "copyright": "Public Domain"
+      }
+    },
+    {
+      "id": "song-mvuztaje-qzhux",
+      "name": "Бог, Твой дух",
+      "content": "{c: Куплет}\nБ[F]ог, Твой Д[C/E]ух\nМне бл[Bb/D]аг мирских ценн[F/C]ее[Gm7 Gm7/C]\nБ[F]ог, Твой л[C/E]уч\nВ дел[Bb/D]а вдыхает с[Csus]уть[C]\nБ[F]ог во мн[C/E]е\nПрев[Bb/D]ыше всех жел[F/C]аний[Cm7 F]\nМне вс[Bb]ех дороже зн[Gm7]аний\nТвой в[Bb/C]ечный п[F]ульс[Bb/F]\n\n{c: Припев}\nТ[F]ы, Госп[C/E]одь\nЖел[Bb/D]анней богаств[F/C]а[Gm7 Gm7/C]\nТ[F]ы, Госп[C/E]одь\nДор[Bb/D]оже всег[Csus]о[C]\nТ[F]ы, Госп[C/E]одь\nПрекр[Bb/D]аснее алм[F/C]азов[Cm7 F]\nНичт[Bb]о во всём этом м[Gm7]ире\nНе сравн[Bb/C]ится с Т[C]об[F]ой",
+      "url": "",
+      "playbackUrl": "https://www.youtube.com/watch?v=R9Kex7jZlsA",
+      "spotify": "https://www.youtube.com/watch?v=R9Kex7jZlsA",
+      "createdAt": 1793366001050,
+      "drawings": [],
+      "images": [],
+      "accessDays": 0,
+      "metadata": {
+        "playback": "https://www.youtube.com/watch?v=R9Kex7jZlsA",
+        "artist": "Lynn DeShazo",
+        "key": "Bb",
+        "tempo": "82",
+        "timeSignature": "4/4",
+        "album": "More Precious Tha Silver (Songs Of Celebration And Worship)",
+        "year": "1982",
+        "composer": "Lynn DeShazo",
+        "copyright": "Integrity's Hosanna! Music / Ready Writer Music"
       }
     }
   ]
