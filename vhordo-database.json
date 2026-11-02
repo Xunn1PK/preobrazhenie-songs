@@ -342,6 +342,24 @@
         "key": "E",
         "copyright": "Brooke Fraser"
       }
+    },
+    {
+      "id": "song-mvzk4hbf-1lm7x",
+      "name": "Позови я услышу",
+      "content": "{c: Куплет 1}\n[A]Позови, я усл[F#m]ышу\n[A]Позови, я пойд[E]у\n[D]За Тобой, мой Б[A]ог\nДо края земл[Esus4]и[E]\n\n{c: Куплет 2}\n[A]Ты всегда в моём с[F#m]ердце\n[A]Ты зажег Свой ог[E]онь\n[D]Я хочу мой Б[A]ог\nИдти за Тоб[Esus4]ой[E]\n\n{c: Припев}\n[A]Веди мен[E]я, мой Бог, Ты знаешь\nБ[D]ыть хочу там где Т[E]ы, пребываешь\n[F#m]Я так любл[E]ю Теб[D]я[Esus4 E]",
+      "url": "",
+      "playbackUrl": "",
+      "spotify": "",
+      "createdAt": 1793641980076,
+      "drawings": [],
+      "images": [],
+      "accessDays": 0,
+      "metadata": {
+        "artist": "Hillsong Ukraine",
+        "key": "A",
+        "year": "2000",
+        "copyright": "Хиллсонг Украина"
+      }
     }
   ]
 }
