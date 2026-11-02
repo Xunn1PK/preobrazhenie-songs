@@ -195,7 +195,7 @@
       "metadata": {
         "timeSignature": "4/4",
         "year": "2021",
-        "artist": "Skydoor Worship, feat. Анна Безгаловая Алексей Бабич (Maverick City Music & UPPERROOM)",
+        "artist": "Maverick City Music & UPPERROOM | Skydoor Worship",
         "composer": "Aaron Moses, Chuck Butler, Dante Bowe, Enrique Holmes, Jesse Cline, Maryanne J. Geogre",
         "key": "Db",
         "copyright": "Bethel Worship Publishing; Heritage Worship Music Publishing; Maverick City Publishing; Aaron Moses Chiriboga Music; Be Essential Songs; Holmeboy Music Group; Jesse Cline Publishing Designee; Jord A Lil Music; MJ George Music.",
@@ -225,6 +225,24 @@
         "timeSignature": "4/4",
         "tempo": "80",
         "playback": "https://www.youtube.com/watch?v=8ml8-Jbear0"
+      }
+    },
+    {
+      "id": "song-mvz4tlhs-emqru",
+      "name": "Лев",
+      "content": "{c: Интро (клавиши на гл.долю + электро эхо)}\n[Dm Bbmaj7 Dm Bbadd9]\n\n{c: Куплет 1}\nБ[Dm]ог завета, Т[Bbmaj7]ы Един\nС[Dm]ын Адама, Б[Bbmaj7]ожий Сын!\nВ ш[C]уме многих вод я\nСл[Bbmaj7]ышу голос Твой!\nНап[C]олнил Своей славой \nН[Bbmaj7]ебеса с землёй![(такт задержки Bbmaj7)]\n\n{c: Припев x2 (+бас 8/8 + гитара)}\nСл[Dm]авься Лев Иудин[C]! \nБ[Bb]удь превознесён!\nСл[Dm]авься Лев Иудин[F]![Bb] \nГолос Твой, к[Gm]ак гром!\n\n{c: Запев}\nГр[Dm]ом (гр[C]ом) гр[Bb]ом (гр[Gm]м) \nгр[Dm]ом (гр[Dm/F]ом)[Bb Gm]\n\n{c: Куплет 2 (+барабаны гл.доля}\nСл[Dm]ово Божье в[Bbmaj7]о плоти\nН[Dm]аш Мессия, [Bbmaj7]Ты гряди!\nТ[C]ы Один достоин\nСн[Bbmaj7]ять печати все![(+барабаны больше по верхам)]\nТ[C]ы есть кроткий Агнец\nИ Т[Bbmaj7]ы мощный словно лев!\n\n{c: Припев x2 (разгон, барабаны на 2/2)}\nСл[Dm]авься Лев Иудин[C]! \nБ[Bb]удь превознесён!\nСл[Dm]авься Лев Иудин[F]![Bb] \nГолос Твой, к[Gm]ак гром!\n\n{c: Запев}\nГр[Dm]ом (гр[C]ом) гр[Bb]ом (гр[Gm]м) \nгр[Dm]ом (гр[Dm/F]ом)[Bb Gm]\n\n{c: Проигрыш (спокойно, клавиши гл.доля)}\n[Bb Csus Gsus F6]\n\n{c: Бридж 1 x2 (спокойно клавиши – гл.доля, без барабанов)}\nГотовьте п[Bb]уть\nготовьте Г[Csus]осподу путь!\nГотовьте п[Gsus]уть\nготовьте Г[F6]осподу путь!\n\n{c: Бридж 2 x5 (4 раза барабаны с начале задел, 5й раз - барабаны больше на гл.долю)}\nДол[Bb]ины возв[Csus]ысьтесь\nВерш[Gsus]ины склон[F6]итесь!\n\n{c: Запев x2}\nОн Гряд[Bb]ёт (Гряд[C]ёт)\nГряд[Gm]ёт (Гряд[F]ёт)!\n\n{c: Припев x3}\nСл[Dm]авься Лев Иудин[C]! \nБ[Bb]удь превознесён!\nСл[Dm]авься Лев Иудин[F]![Bb] \nГолос Твой, к[Gm]ак гром!\n\n{c: Бридж 1 x4 (сразу 2 голоса)}\nГотовьте п[Bb]уть\nготовьте Г[Csus]осподу путь!\nГотовьте п[Gsus]уть\nготовьте Г[F6]осподу путь!\n\n{c: Бридж 2 x2 (спокойно, только долины)}\nДол[Bb]ины возв[Csus]ысьтесь\nВерш[Gsus]ины склон[F6]итесь!\n\n{c: Запев x4 (спокойно)}\nОн Гряд[Bb]ёт (Гряд[C]ёт)\nГряд[Gm]ёт (Гряд[F]ёт)!",
+      "url": "",
+      "playbackUrl": "",
+      "spotify": "",
+      "createdAt": 1793616278033,
+      "drawings": [],
+      "images": [],
+      "accessDays": 0,
+      "metadata": {
+        "artist": "Elevation Worship | Слово Жизни Music",
+        "key": "Bb",
+        "copyright": "Elevation Worship",
+        "year": "2022"
       }
     }
   ]
