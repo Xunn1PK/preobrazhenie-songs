@@ -3,52 +3,17 @@
     {
       "id": "folder-mvzngasg-hx3sx",
       "name": "2026",
-      "lists": [
-        "list-mvzngjqa-62xmr"
-      ],
+      "lists": [],
       "createdAt": 1793647570336,
       "type": "default"
     }
   ],
-  "lists": [
-    {
-      "id": "list-mvzngjqa-62xmr",
-      "name": "8 ноября",
-      "songs": [
-        {
-          "id": "song-mvzk4hbf-1lm7x",
-          "lastKnownName": "Позови я услышу",
-          "transposed": "A"
-        },
-        {
-          "id": "song-mvzkfpjp-1nbvr",
-          "lastKnownName": "Ты мой Бог",
-          "transposed": "C"
-        },
-        {
-          "id": "song-mvzkxlie-wfcbd",
-          "lastKnownName": "Иисус сейчас здесь",
-          "transposed": "C"
-        },
-        {
-          "id": "song-mvzdyrwu-vbipq",
-          "lastKnownName": "Сильный Бог чудотворный",
-          "transposed": "C"
-        },
-        {
-          "id": "song-mvzn3j1n-m7x5u",
-          "lastKnownName": "Снова здесь"
-        }
-      ],
-      "createdAt": 1793647581922,
-      "lastUsedAt": 1793647712171
-    }
-  ],
+  "lists": [],
   "songs": [
     {
       "id": "song-mvsnc0ip-d3g83",
       "name": "Благодарю Тебя Иисус",
-      "content": "Благ[F]одар[C]ю Теб[Bb]я, Иисус\nБлаг[Gm]одар[Dm]ю Теб[C]я, Иисус\nБлаг[F]одар[C]ю Теб[Bb]я, Иисус\nПр[Bb]осто я благ[F]одарю\nПр[Bb]осто я благ[F]од[C]ар[F]ю",
+      "content": "{c: Куплет 1}\n[D]За Голг[A]офу, за кр[Bm]овь[G] я Теб[D]я благодар[A]ю\n[D]За воскр[A]есенье Тво[Bm]ё[G], за поб[A]еду Тво[D]ю\n\n{c: Припев}\nБлаг[D]одар[A]ю Теб[Bm]я, Иисус\nБлаг[G]одар[D]ю Теб[A]я, Иисус\nБлаг[D]одар[A]ю Теб[Bm]я, Иисус\nПр[G]осто я благ[D]одарю\nПр[G]осто я благ[D]од[A]ар[D]ю\n\n{c: Куплет 2}\n[D]За прекр[A]асный рассв[Bm]ет[G], добрый [D]утренний св[A]ет\n[D]За твор[A]енье Тво[Bm]ё[G], за спас[A]енье мо[D]ё\n\n{c: Куплет 3}\n[D]За чистый в[A]оздух с н[Bm]еб[G]ес, чудн[D]ый сказочн[A]ый лес\n[D]За ликов[A]ание [Bm]пти[G]ц, за сл[A]ово с вечн[D]ых страниц",
       "url": "",
       "playbackUrl": "https://www.youtube.com/watch?v=63UhpmbSaM4",
       "spotify": "https://www.youtube.com/watch?v=63UhpmbSaM4",
@@ -58,7 +23,7 @@
       "accessDays": 0,
       "metadata": {
         "artist": "Andre Crouch (Андре Кроуч)",
-        "key": "Bb",
+        "key": "D",
         "tempo": "130",
         "timeSignature": "4/4",
         "composer": "Andre Crouch (Андре Кроуч)",
@@ -456,6 +421,58 @@
       "metadata": {
         "artist": "Elevation Wroship | Слово Жизни Music",
         "key": "D"
+      }
+    },
+    {
+      "id": "song-mwm5kvib-i1qj1",
+      "name": "Ты велик",
+      "content": "{c: Интро}\n[C F Am F]\n\n{c: Куплет 1}\nТы вел[C]ик и нет в мире никог[F]о\nКто сравнится мог с Тоб[Am]ой\nНет подобного Теб[F]е, Бог М[G]ой!\n\n{c: Куплет 2}\nТы благ[C]ой, Твоя милость без конц[F]а\nИ со мной любовь Тво[Am]я\nМоё сердце велич[F]ает Теб[G]я!\n\n{c: Припев x2}\nЯ жив[C]у чтоб Ты прославлен был\nЯ по[F]ю лишь для Тебя\nМоё с[Am]ердце величает Твоё [F]Имя\n\n{c: Проигрыш}\n[C F Am F]\n\n{c: Бридж}\n[C]Я для Тебя живу, я для Тебя пою\n[C]Своею жизнью я хочу Тебя прославить\n[F]Я для Тебя живу, я для Тебя пою\n[F]Своею жизнью я хочу Тебя прославить",
+      "url": "",
+      "playbackUrl": "",
+      "spotify": "",
+      "createdAt": 1795008272771,
+      "drawings": [],
+      "images": [],
+      "accessDays": 0,
+      "metadata": {
+        "artist": "Слово Веры Киев",
+        "tempo": "155",
+        "timeSignature": "4/4",
+        "key": "F"
+      }
+    },
+    {
+      "id": "song-mwm5smbv-5wkw9",
+      "name": "На колени я встаю",
+      "content": "{c: Куплет 1}\n[Dm]На кол[C]ени я вста[Bb]ю\n[Dm]Тоб[C]ою лишь я хоч[F]у дыш[Bb]ать!\n[Dm]Всё о т[C]ом же я мол[Bb]ю\n[Dm]Всем с[C]ердцем я хочу взыв[Bb]ать!\n\n{c: Пред-припев}\n[C]Сладкий Д[Dm]ух Святой, прид[Bb]и!\n[C]И в объ[Dm]ятия возьм[Bb]и!\n\n{c: Припев}\nСойди на мен[F]я, сойди на мен[C]я!\nВ славе Тв[Dm]оей свободен [Bb]я!\nИзлейся как[F] дождь, и ко мн[C]е прикоснись\nНаполни присутсвием мен[Bb]я!\n\n{c: Куплет 2}\n[Dm]Видеть [C]я хочу Тво[Bb]ю\n[Dm]И с[C]илу, и вел[F]ичи[Bb]е!\n\n{c: Бридж x4}\nД[Dm]ух Святой, [F]освяти нас!\n\n{c: Аутро x2}\nСойд[F]и на мен[C]я! Сойд[Dm]и на мен[Bb]я!",
+      "url": "",
+      "playbackUrl": "",
+      "spotify": "",
+      "createdAt": 1795008634123,
+      "drawings": [],
+      "images": [],
+      "accessDays": 0,
+      "metadata": {
+        "key": "F"
+      }
+    },
+    {
+      "id": "song-mwm6fug4-9hk1l",
+      "name": "Дыхание",
+      "content": "{c: Куплет}\n[A2]Тобою [D2]я дышу, [A2]Тобою [D2]я дышу\n[A2]Тво[E/G#]ё прис[F#m]утствие[E] в ж[D2]изни мо[E]ей\n[A2]Ты мой нас[D2]ущный хлеб, [A2]Ты мой нас[D2]ущный хлеб\n[A2]Жив[E/G#]ое сл[F#m]ово[E] в ж[D2]изни[F#m] мо[E]ей\n\n{c: Припев}\nИ [A]я [E/G#] [F#m] [C#m] [ ]в Тебе нужд[D]аюсь![F#m E]\nИ [A]я [E/G#] [F#m] [C#m] [ ]потерян б[D]ез Тебя![F#m E]\n[(конец A)]",
+      "url": "",
+      "playbackUrl": "",
+      "spotify": "",
+      "createdAt": 1795009717733,
+      "drawings": [],
+      "images": [],
+      "accessDays": 0,
+      "metadata": {
+        "year": "1995",
+        "artist": "Marie Barnett (Марье Барнетт)",
+        "album": "Breathe",
+        "copyright": "Mercy / Vineyard",
+        "key": "A"
       }
     }
   ]
